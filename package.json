@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "private": false,
   "description": "Simple yet powerful absence management software for small and medium size business",
+  "publishConfig": {
+    "registry": "http://34.122.90.105:30707/repository/npm-gorilla-int/"
+  },
   "engines": {
     "node": ">=12.0.0"
   },
